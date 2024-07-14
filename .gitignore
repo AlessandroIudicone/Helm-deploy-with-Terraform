@@ -6,3 +6,5 @@
 *.tfstate.*
 
 .terraform*
+
+custom-nginx-0.1.0.tgz
